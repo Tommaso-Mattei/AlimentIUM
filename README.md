@@ -10,5 +10,6 @@ This is a university project made in collaboration with Robert Iacobus, Federico
 The project was created for the exam of Human-Machine Interaction, course of the third year of Computer Science at La Sapienza university of Rome. The pdf is in italian.
 
 Homepage dell'applicazione
+
 ![Screenshot](AlimentiumF.png)
 
