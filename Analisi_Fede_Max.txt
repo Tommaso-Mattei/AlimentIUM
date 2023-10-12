@@ -1,0 +1,60 @@
+* Dalle interviste effettuate emerge il fatto che nessun utente abbia mai 
+utilizzato app che fungono da ricettario o lista della spesa per vari motivi, chi non sapeva dell'esistenza, 
+chi ritiene siano non necessarie, chi non è tecnologico e quindi usa la carta.
+
+* Tutti gli intervistati cercano ricette, la maggior parte online e
+a tutti farebbe sicuramente comodo poter cercare in base al tempo necessario
+e alla difficoltà, la maggiorparte sarebbe contenta di poter cercare secondo
+dieta, fitness, intolleranze e altro.
+
+* La maggiorparte delle persone non sanno bene cosa mangieranno al prossimo pasto
+e di solito si organizzano per lo più vedendo ciò che c'è in frigo e che sanno
+cucinare al volo con qualche caso in cui si possa anche seguire un certo piano alimentare.
+
+* Gli intervistati quando non sanno come utilizzare ingredienti a casa cercano
+tutti su internet un modo su come poterli utilizzare, se sanno sempre come usarli
+sono solitamente persone molto creative o che sanno cucinare.
+
+* In generale tutti buttano cibo e sopratutto perché scaduto, perché se ne sono
+quindi dimenticati o altre volte perché non gli andava di rimangiarlo.
+
+* Il 50% percento degli intervistati si ricorda mentalmente i prodotti che vuole comprare,
+gli altri usano solitamente liste fatte in precedenza o le note sul cellulare ad esempio.
+
+* Per maggioranza gli intervistati guardano il prezzo come prima caratteristica e poi la qualità
+del prodotto, ci sono pero casi di chi a acquista prodotti per familiarità,
+ingredienti usati come conservanti, grassi ecc... se si fa una certa dieta, e addirittura
+c'è chi sceglie un prodotto rispetto a un altro per il tipo di confezione.
+
+* In grande maggioranza gli intervistati preferiscono non dover andare a fare la spesa
+per comodità e tempo e pagherebbero quindi qualcuno che gliela faccia al posto loro.
+Chi ha detto no è perché vuole vedere i prodotti che acquista o non vuole essere pigro.
+
+* La maggiorparte degli intervistati vorrebbe una funzionalità con cui coordinarsi riguardo alla spesa
+con i propri conquilini o famiglia per lo più perché molte volte si acquistano prodotti che erano 
+già presenti in casa e si farebbe più ordine.
+
+
+CONCLUSIONE :
+
+Dalle analisi delle interviste emerge fuori sicuramente che nessuno usa app da ricettario o lista della spesa per lo più perché la lista della spesa se la fanno mentalmente o nelle note / fogli,
+mentre app ricettario no perché cercano le ricette online e magari neanche sapevano dell'esistenza delle app legate ai siti (es. giallozafferano app).
+
+-- Possibile need: cercare ricette con opzioni extra
+Tutti cercano ricette online e preferirebbero sicuramente poter cercare di più in base a tempo e difficoltà rispetto a una certa dieta, anche se entrambe le funzionalità sono ben apprezzate.
+Tutti hanno il problema di non saper usare qualche volta gli ingredienti nella propria abitazione, in quei casi il problema lo risolvono cercando ricette online per la maggioranza.
+
+-- Possibile need: cibo buttato perchè scaduto
+Tutti buttano cibo, la maggiorparte delle volte perché se ne sono dimenticati ed è quindi scaduto.
+
+-- Non possibile need: Lista della spesa
+La lista della spesa la fanno per metà mentalmente quindi non è davvero una loro priorità e l'altra metà la fa con app di note o lista cartacea quindi non è davvero un need.
+
+-- Possibile need: sapere prezzo e qualità dei prodotti (ingredienti)
+Sicuramente gli intervistati guardano prima il prezzo e poi la qualità del prodotto, che siano gli ingredienti o la confezione del prodotto.
+
+-- Possibile need: non dover uscire di casa e andare a fare la spesa
+Alla maggiorparte degli intervistati farebbe comodo che qualcun altro facesse la spesa per loro anche pagandogli, per comodità e pigrizia.
+
+-- Possibile need: saper coordinarsi con gli altri in modo efficiente riguardo la spesa
+Alla maggiorparte degli utenti che non abitano da soli farebbe molto comodo potersi organizzare e coordinare riguardo alla spesa con gli altri perché altrimenti si creano situazioni che creano sprechi (prodotti doppioni).
